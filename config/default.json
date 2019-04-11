@@ -1,0 +1,7 @@
+{
+    "bot": {
+        "appId": "c3c57361-92d7-4142-9557-628216595a57",
+        "appPassword": "Prueba123"
+    },
+    "storage": "memory"
+}
